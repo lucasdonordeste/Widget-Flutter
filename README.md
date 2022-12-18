@@ -1,4 +1,4 @@
-# aplicativo_widget
+# aplicativo_widget_flutter
 
 A new Flutter project.
 
